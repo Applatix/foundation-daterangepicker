@@ -1,0 +1,21 @@
+{
+  "name": "foundation-daterangepicker",
+  "version": "1.0.0",
+  "description": "![Improvely.com](http://i.imgur.com/LbAMf3D.png)",
+  "main": "daterangepicker.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Applatix/foundation-daterangepicker.git"
+  },
+  "author": "Anuraag",
+  "bugs": {
+    "url": "https://github.com/Applatix/foundation-daterangepicker/issues"
+  },
+  "homepage": "https://github.com/Applatix/foundation-daterangepicker#readme"
+}
